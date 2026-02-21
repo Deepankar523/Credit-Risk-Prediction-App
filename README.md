@@ -146,4 +146,25 @@ Aspiring Data Analyst | Machine Learning Enthusiast
 
 https://github.com/Deepankar523/Credit-Risk-Prediction-App
 
-(After deployment add your Streamlit link here)
+🔗 Streamlit link
+
+https://credit-risk-prediction-app-ntstwrcz2jxvy5ziu8mmip.streamlit.app/
+
+
+## 📊 Model Evaluation
+
+### Confusion Matrix
+![Confusion Matrix](Confusion Matrix.png)
+
+### Classification Report
+![Classification Report](Classification Report.png)
+
+### ROC Curve
+![ROC Curve](ROC Curve.png)
+
+### Feature Importance
+![Feature Importance](Feature Importance.png)
+
+## 🌐 Web Application
+
+![Web App Screenshot](web app credit risk prediction.png)
